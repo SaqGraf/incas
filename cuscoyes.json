@@ -1,0 +1,93 @@
+[
+      {
+        "title" : "Store A",
+        "animal" : "fish",
+        "drink" : "coca",
+        "name" : "paul",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.48339843749999994,
+            46.89023157359399
+          ]
+        }
+      },
+      {
+        "title" : "Store B",
+        "animal" : "fish",
+        "drink" : "fanta",
+        "name" : "sandrine",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.7685546874999996,
+            47.76148371616669
+          ]
+        }
+      },
+      {
+        "title" : "Store C",
+        "animal" : "fish",
+        "drink" : "coca",
+        "name" : "paul",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.57080078125,
+            45.882360730184025
+          ]
+        }
+      },
+      {
+        "title" : "Store D",
+        "animal" : "cat",
+        "drink" : "fanta",
+        "name" : "sandrine",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.098876953125,
+            44.52001001133986
+          ]
+        }
+      },
+      {
+        "title" : "Store E",
+        "animal" : "cat",
+        "drink" : "coca",
+        "name" : "lea",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.54833984375,
+            45.874712248904764
+          ]
+        }
+      },
+      {
+        "title" : "Store F",
+        "animal" : "dog",
+        "drink" : "fanta",
+        "name" : "lea",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.822998046875,
+            45.920587344733654
+          ]
+        }
+      },
+      {
+        "title" : "Store G",
+        "animal" : "dog",
+        "drink" : "fanta",
+        "name" : "sandrine",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.06494140625,
+            45.96642454131025
+          ]
+        }
+      }
+    ]
