@@ -1,0 +1,28 @@
+[
+	{
+		"address":"Tr 17 # 45D - 61",
+		"category":"gallery",
+		"desc":"Independent place focused on illustration and graphic arts. Provides workshops, meetings and art exhibitions.",
+		"id":1,
+		"imgvenue":"01.jpg",
+		"location":{
+			"lat":-13.524844,
+			"lng":-71.974463
+		},
+		"title":"Casatinta Galería",
+		"website":"https://www.facebook.com/Casatinta.Bogota/"
+	},
+	{
+		"address":"Cra 19 45A-17",
+		"category":"theater",
+		"desc":"Colombian theater company provides theatrical productions, workshops, social gathering about the language of the stage.",
+		"id":2,
+		"imgvenue":"02.jpg",
+		"location":{
+			"lat":-13.518954,
+			"lng":-71.963863
+		},
+		"title":"Teatro La Maldita Vanidad",
+		"website":"https://www.facebook.com/lamalditavanidad/"
+	}
+]
