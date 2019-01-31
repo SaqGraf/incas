@@ -1,0 +1,281 @@
+[
+    {
+        "name": "Cusco, Peru",
+        "location": {
+            "pais": {
+                "name": "Cusco",
+                "slug": "cusco"
+            },
+            "depa": {
+                "name": "Kansas",
+                "slug": "kansas"
+            },
+            "ciudad": {
+                "name": "Dighton",
+                "slug": "dighton"
+            },
+            "distrito": {
+                "name": "W Long St",
+                "slug": "w-long-st"
+            },
+            "coordinates": {
+                "lat": -13.523879,
+                "lng": -71.960415
+            },
+            "full_address": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/b6IZpNmq-Yo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        },
+        "phone": "65 9332-6545",
+        "tipo": {
+            "name": "Loja",
+            "slug": "loja"
+        }
+    },
+    {
+        "name": "Ponto de Venda Goiás",
+        "location": {
+            "pais": {
+                "name": "San Jeronimo",
+                "slug": "san-jeronimo"
+            },
+            "depa": {
+                "name": "Goiás",
+                "slug": "goias"
+            },
+            "ciudad": {
+                "name": "Goiânia",
+                "slug": "goiania"
+            },
+            "distrito": {
+                "name": "Vila dos Alpes",
+                "slug": "vila-dos-alpes"
+            },
+            "coordinates": {
+                "lat": -16.710801,
+                "lng": -49.296828
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Ponto de Venda",
+            "slug": "ponto"
+        }
+    },
+    {
+        "name": "Ponto de Venda Rio de Janeiro",
+        "location": {
+            "pais": {
+                "name": "Wanchaq",
+                "slug": "wanchaq"
+            },
+            "depa": {
+                "name": "Rio de Janeiro",
+                "slug": "rio-de-janeiro"
+            },
+            "ciudad": {
+                "name": "Nova Friburgo",
+                "slug": "nova-friburgo"
+            },
+            "distrito": {
+                "name": "Santa Elisa",
+                "slug": "santa-elisa"
+            },
+            "coordinates": {
+                "lat": -22.290793,
+                "lng": -42.522479
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Ponto de Venda",
+            "slug": "ponto"
+        }
+    },
+    {
+        "name": "Loja Rio de Janeiro",
+        "location": {
+            "pais": {
+                "name": "Saylla",
+                "slug": "saylla"
+            },
+            "depa": {
+                "name": "Rio de Janeiro",
+                "slug": "rio-de-janeiro"
+            },
+            "ciudad": {
+                "name": "Petrópolis",
+                "slug": "petropolis"
+            },
+            "distrito": {
+                "name": "Alto da Serra",
+                "slug": "alto-da-serra"
+            },
+            "coordinates": {
+                "lat": -22.517360,
+                "lng": -43.177397
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Loja",
+            "slug": "loja"
+        }
+    },
+    {
+        "name": "Loja Tocantins",
+        "location": {
+            "pais": {
+                "name": "Poroy",
+                "slug": "poroy"
+            },
+            "depa": {
+                "name": "Tocantins",
+                "slug": "tocantins"
+            },
+            "ciudad": {
+                "name": "Palmas",
+                "slug": "palmas"
+            },
+            "distrito": {
+                "name": "Plano Diretor Sul",
+                "slug": "plano-diretor-sul"
+            },
+            "coordinates": {
+                "lat": -10.205764,
+                "lng": -48.331858
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Loja",
+            "slug": "loja"
+        }
+    },
+    {
+        "name": "Ponto de Venda Fortaleza",
+        "location": {
+            "pais": {
+                "name": "Brasil",
+                "slug": "brasil"
+            },
+            "depa": {
+                "name": "Ceará",
+                "slug": "ceara"
+            },
+            "ciudad": {
+                "name": "Fortaleza",
+                "slug": "fortaleza"
+            },
+            "distrito": {
+                "name": "Montese",
+                "slug": "montese"
+            },
+            "coordinates": {
+                "lat": -3.766310,
+                "lng": -38.548628
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Ponto de Venda",
+            "slug": "ponto"
+        }
+    },
+    {
+        "name": "Ponto de Venda Brasília",
+        "location": {
+            "pais": {
+                "name": "Brasil",
+                "slug": "brasil"
+            },
+            "depa": {
+                "name": "Goiás",
+                "slug": "goias"
+            },
+            "ciudad": {
+                "name": "Brasília",
+                "slug": "brasilia"
+            },
+            "distrito": {
+                "name": "Asa Norte",
+                "slug": "asa-norte"
+            },
+            "coordinates": {
+                "lat": -15.764527,
+                "lng": -47.883081
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Ponto de Venda",
+            "slug": "ponto"
+        }
+    },
+    {
+        "name": "Ponto de Venda Estados Unidos",
+        "location": {
+            "pais": {
+                "name": "Estados Unidos",
+                "slug": "estados-unidos"
+            },
+            "depa": {
+                "name": "Califórnia",
+                "slug": "california"
+            },
+            "ciudad": {
+                "name": "São Francisco",
+                "slug": "sao-francisco"
+            },
+            "distrito": {
+                "name": "Castro",
+                "slug": "castro"
+            },
+            "coordinates": {
+                "lat": 37.761479,
+                "lng": -122.438289
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Ponto de Venda",
+            "slug": "ponto"
+        }
+    },
+    {
+        "name": "Loja Espanha",
+        "location": {
+            "pais": {
+                "name": "Espanha",
+                "slug": "espanha"
+            },
+            "depa": {
+                "name": "Madrid",
+                "slug": "madrid"
+            },
+            "ciudad": {
+                "name": "Fuelanbrada",
+                "slug": "fuelanbrada"
+            },
+            "distrito": {
+                "name": "Calle Montecarlo",
+                "slug": "calle-montecarlo"
+            },
+            "coordinates": {
+                "lat": 40.300899,
+                "lng": -3.822424
+            },
+            "full_address": "Endereço Completo aqui #2"
+        },
+        "phone": "65 9332-6545 / 4555-8788",
+        "tipo": {
+            "name": "Loja",
+            "slug": "loja"
+        }
+    }
+]
