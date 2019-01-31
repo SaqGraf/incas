@@ -2,19 +2,19 @@
     {
         "name": "Cusco, Peru",
         "location": {
-            "pais": {
+            "country": {
                 "name": "Estados Unidos",
                 "slug": "estados-unidos"
             },
-            "departamento": {
+            "state": {
                 "name": "Kansas",
                 "slug": "kansas"
             },
-            "ciudad": {
+            "city": {
                 "name": "Dighton",
                 "slug": "dighton"
             },
-            "distrito": {
+            "district": {
                 "name": "W Long St",
                 "slug": "w-long-st"
             },
@@ -25,7 +25,7 @@
             "full_address": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/b6IZpNmq-Yo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
         },
         "phone": "65 9332-6545",
-        "tipo": {
+        "type": {
             "name": "Loja",
             "slug": "loja"
         }
