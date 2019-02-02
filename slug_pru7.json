@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Cusco, Peru",
+        "location": {
+            "distrito": {
+                "name": "Cusco",
+                "slug": "cusco"
+            },
+            "tipop": {
+                "name": "Alquiler",
+                "slug": "alquiler"
+            },
+            "coordinates": {
+                "lat": -13.523879,
+                "lng": -71.960415
+            },
+            "full_address": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/b6IZpNmq-Yo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        },
+        "phone": "65 9332-6545",
+        "tipovi": {
+            "name": "Casa",
+            "slug": "casa"
+        }
+    },
+    {
+        "name": "Cusco, Peru",
+        "location": {
+            "distrito": {
+                "name": "Wanchaq",
+                "slug": "wanchaq"
+            },
+            "tipop": {
+                "name": "Anticresis",
+                "slug": "anticresis"
+            },
+            "coordinates": {
+                "lat": -13.527188,
+                "lng": -71.955600
+            },
+            "full_address": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/b6IZpNmq-Yo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        },
+        "phone": "65 9332-6545",
+        "tipovi": {
+            "name": "Terreno",
+            "slug": "terreno"
+        }
+    },
+    {
+        "name": "Cusco, Peru",
+        "location": {
+            "distrito": {
+                "name": "Santiago",
+                "slug": "santiago"
+            },
+            "tipop": {
+                "name": "Alquiler",
+                "slug": "alquiler"
+            },
+            "coordinates": {
+                "lat": -13.530350,
+                "lng": -71.994100
+            },
+            "full_address": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/b6IZpNmq-Yo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        },
+        "phone": "65 9332-6545",
+        "tipovi": {
+            "name": "Casa",
+            "slug": "casa"
+        }
+    },
+    {
+        "name": "Cusco, Peru",
+        "location": {
+            "distrito": {
+                "name": "San Sebastian",
+                "slug": "san-sebastia"
+            },
+            "tipop": {
+                "name": "Venta",
+                "slug": "venta"
+            },
+            "coordinates": {
+                "lat": -13.544763,
+                "lng": -71.892986
+            },
+            "full_address": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/b6IZpNmq-Yo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        },
+        "phone": "65 9332-6545",
+        "tipovi": {
+            "name": "Terreno",
+            "slug": "terreno"
+        }
+    },
+    {
+        "name": "Cusco, Peru",
+        "location": {
+            "distrito": {
+                "name": "San Jeronimo",
+                "slug": "san-jeronimo"
+            },
+            "tipop": {
+                "name": "Alquiler",
+                "slug": "alquiler"
+            },
+            "coordinates": {
+                "lat": -13.544763,
+                "lng": -71.892986
+            },
+            "full_address": "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/b6IZpNmq-Yo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        },
+        "phone": "65 9332-6545",
+        "tipovi": {
+            "name": "Casa",
+            "slug": "casa"
+        }
+    }
+]
