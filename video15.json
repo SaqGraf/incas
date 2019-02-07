@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Cusco, Peru",
+        "location": {
+            "distrito": {
+                "name": "Cusco",
+                "slug": "cusco"
+            },
+            "tipop": {
+                "name": "Alquiler",
+                "slug": "alquiler"
+            },
+            "coordinates": {
+                "lat": -13.523879,
+                "lng": -71.960415
+            },
+            "full_address": "<iframe src='http://youtu.be/b6IZpNmq-Yo'></iframe>"
+        },
+        "phone": "65 9332-6545",
+        "type": {
+            "name": "Casa",
+            "slug": "casa"
+        }
+    },
+	{
+        "name": "Cusco, Peru",
+        "location": {
+            "distrito": {
+                "name": "Wanchaq",
+                "slug": "wanchaq"
+            },
+            "tipop": {
+                "name": "Anticresis",
+                "slug": "anticresis"
+            },
+            "coordinates": {
+                "lat": -13.522130,
+                "lng": -71.968740
+            },
+            "full_address": "<img src='img/startablog.png'>"
+        },
+        "phone": "65 9332-6545",
+        "type": {
+            "name": "Terreno",
+            "slug": "terreno"
+        }
+    }
+]
