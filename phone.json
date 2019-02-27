@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Santa rOSA",
+        "l": {
+            "d": {
+                "name": "Cusco",
+                "slug": "cusco"
+            },
+            "to": {
+                "name": "Alquiler",
+                "slug": "alquiler"
+            },
+            "c": {
+                "lat": -13.523879,
+                "lng": -71.960415
+            },
+            "full_address": "<iframe src='https://www.youtube.com/embed/7PzTaBUPzsE'></iframe>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "name": "Casa",
+            "slug": "casa"
+        }
+    },
+	{
+        "name": "uVIMA",
+        "l": {
+            "d": {
+                "name": "Wanchaq",
+                "slug": "wanchaq"
+            },
+            "to": {
+                "name": "Anticresis",
+                "slug": "anticresis"
+            },
+            "c": {
+                "lat": -13.522130,
+                "lng": -71.968740
+            },
+            "full_address": "<img src='img/startablog.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "name": "Terreno",
+            "slug": "terreno"
+        }
+    }
+]
