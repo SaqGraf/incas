@@ -113,5 +113,28 @@
             "n": "Terreno",
             "s": "terreno"
         }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Santiago",
+                "s": "santigo"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.528876, 
+				"lng": -71.979974
+            },
+            "m": "<img src='i/4.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
     }
 ]
