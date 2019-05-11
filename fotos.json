@@ -67,5 +67,28 @@
             "n": "Terreno",
             "s": "terreno"
         }
+    },
+	{
+        "n": "Belenpampa",
+        "l": {
+            "d": {
+                "n": "Wanchaq",
+                "s": "wanchaq"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.526202,
+				"lng": -71.979850
+            },
+            "m": "<img src='i/1.jpg'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
     }
 ]
