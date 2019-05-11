@@ -1,0 +1,94 @@
+[
+    {
+        "n": "Tica tica",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Alquiler",
+                "s": "alquiler"
+            },
+            "c": {
+                "lat": -13.523879,
+                "lng": -71.960415
+            },
+            "m": "<iframe src='https://www.youtube.com/embed/7PzTaBUPzsE'></iframe>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Casa",
+            "s": "casa"
+        }
+    },
+	{
+        "n": "Nacion",
+        "l": {
+            "d": {
+                "n": "Wanchaq",
+                "s": "wanchaq"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.522130,
+                "lng": -71.968740
+            },
+            "m": "<img src='i/1.jpg'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Patapaula",
+        "l": {
+            "d": {
+                "n": "Wanchaq",
+                "s": "wanchaq"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.530461,
+				"lng": -71.899871
+            },
+            "m": "<img src='i/1.jpg'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Belenpampa",
+        "l": {
+            "d": {
+                "n": "Wanchaq",
+                "s": "wanchaq"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.526202,
+				"lng": -71.979850
+            },
+            "m": "<img src='i/2.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    }
+]
