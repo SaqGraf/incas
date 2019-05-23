@@ -1,0 +1,485 @@
+[
+    {
+        "n": "Tica tica",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Alquiler",
+                "s": "alquiler"
+            },
+            "c": {
+                "lat": -13.523879,
+                "lng": -71.960415
+            },
+            "m": "<iframe src='https://www.youtube.com/embed/7PzTaBUPzsE'></iframe>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Casa",
+            "s": "casa"
+        }
+    },
+	{
+        "n": "Nacion",
+        "l": {
+            "d": {
+                "n": "Wanchaq",
+                "s": "wanchaq"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.522130,
+                "lng": -71.968740
+            },
+            "m": "<img src='i/1.jpg'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Patapaula",
+        "l": {
+            "d": {
+                "n": "Wanchaq",
+                "s": "wanchaq"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.530461,
+				"lng": -71.899871
+            },
+            "m": "<img src='i/1.jpg'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Santiago",
+                "s": "santiago"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.526202,
+				"lng": -71.979850
+            },
+            "m": "<img src='i/2.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Santiago",
+                "s": "santiago"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.526172,  
+				"lng": -71.978791
+            },
+            "m": "<img src='i/3.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Santiago",
+                "s": "santiago"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.528876, 
+				"lng": -71.979974
+            },
+            "m": "<img src='i/4.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.525189,
+				"lng": -71.974477
+            },
+            "m": "<img src='i/5.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.523842,
+				"lng": -71.976033
+            },
+            "m": "<img src='i/6.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Wanchaq",
+                "s": "wanchaq"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.526462,
+				"lng": -71.965741
+            },
+            "m": "<img src='i/7.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.525438,
+				"lng": -71.989484
+            },
+            "m": "<img src='i/8.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.523744,
+				"lng": -71.990195
+            },
+            "m": "<img src='i/9.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.523550,
+				"lng": -71.989482
+            },
+            "m": "<img src='i/10.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.522765,
+				"lng": -71.988501
+            },
+            "m": "<img src='i/11.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.522414,
+				"lng": -71.977065
+            },
+            "m": "<img src='i/12.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.530861,
+				"lng": -71.932625
+            },
+            "m": "<img src='i/13.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.533679,
+				"lng": -71.909671
+            },
+            "m": "<img src='i/15.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.534403,
+				"lng": -71.907003
+            },
+            "m": "<img src='i/16.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.529635,
+				"lng": -71.971951
+            },
+            "m": "<img src='i/17.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.530520,
+				"lng": -71.974231
+            },
+            "m": "<img src='i/18.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.530562,
+				"lng": -71.974988
+            },
+            "m": "<img src='i/19.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    },
+	{
+        "n": "Casa como terreno",
+        "l": {
+            "d": {
+                "n": "Cusco",
+                "s": "cusco"
+            },
+            "to": {
+                "n": "Anticresis",
+                "s": "anticresis"
+            },
+            "c": {
+                "lat": -13.530426,
+				"lng": -71.931066
+            },
+            "m": "<img src='i/14.png'>"
+        },
+        "p": "65 9332-6545",
+        "type": {
+            "n": "Terreno",
+            "s": "terreno"
+        }
+    }
+]
